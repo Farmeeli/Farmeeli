@@ -1,5 +1,5 @@
 - Hi, I’m Eliot
-- I’m interested in Music, Science, and other languages
+- I’m interested in Music and Science
 - I’m currently learning Italian and Piano
 - In computer Science I want to learn how to code
 - Computer Science is important to me it's a very important skill to have, and could be helpful in many real life situations. Not to mention it's fun to mess around with
